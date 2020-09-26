@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trabajadores</string>
+    <string name="cedula">Cédula del personal</string>
+    <string name="fecha">Fecha</string>
+    <string name="hora">Hora</string>
+    <string name="minutos">Minutos</string>
+    <string name="segundos">Segundos</string>
+    <string name="post">Post</string>
+    <string name="get">GET</string>
+    <string name="campos">INGRESE TODOS LOS CAMPOS</string>
+    <string name="enviado">GUARDANDO DATOS</string>
+    <string name="horario">HORARIOS</string>
+    <string name="horaa">08:02:59</string>
+    <string name="fechaa">20/09/2020</string>
+</resources>
